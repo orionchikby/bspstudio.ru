@@ -1,7 +1,7 @@
 # bspstudio.ru
 Простая читалка для сайта https://bspstudio.ru/
 
-Android
+Android + Android TV
 
 [Download Apk](https://github.com/orionchikby/bspstudio.ru/raw/master/app/bspstudio.apk)
 
