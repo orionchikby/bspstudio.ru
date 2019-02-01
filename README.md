@@ -3,7 +3,7 @@
 
 Android + Android TV
 
-[Скачать Apk](https://github.com/orionchikby/bspstudio.ru/raw/master/app/bspstudio.apk)
+[Скачать Apk](http://bit.ly/bspstudio_apk)
 
 
 <img src="/img/2.jpg" width="300">  <img src="/img/1.jpg" width="300">
